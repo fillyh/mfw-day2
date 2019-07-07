@@ -1,0 +1,38 @@
+body{
+    background-color:#CFD8DC;
+}
+.my-container{
+    height: 100vh;
+}
+
+.my-header{
+    height: 80px;
+    border: solid 1px #B0BEC5;
+}
+
+.mynav{
+    padding: 20px 0 20px 0;
+    border: solid 1px #B0BEC5;
+}
+
+.my-content{
+    height:500px;
+    border: solid 1px #B0BEC5;
+}
+
+.aside{
+    height:500px;
+    border: solid 1px #B0BEC5;
+}
+
+.promo{
+    height: 200px;
+    border: solid 1px #B0BEC5;
+}
+
+.footer{
+    border: solid 1px #B0BEC5;
+    height: 50px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
